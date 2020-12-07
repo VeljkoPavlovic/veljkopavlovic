@@ -61,6 +61,16 @@ h6 {
     color: #999;
 }
 
+.radius-15 {
+    border-radius: 15px !important;
+}
+
+#profilna-slika {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    /*border: 1px solid rgba(0,0,0,.125);*/
+}
+
 /*
  * Footer
  */
