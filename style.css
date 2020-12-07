@@ -1,18 +1,18 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
-.blog-header {
+.site-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-.blog-header-logo {
+.site-header-logo {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 36px;
 }
 
-.blog-header-logo:hover {
+.site-header-logo:hover {
   text-decoration: none;
 }
 
@@ -37,12 +37,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
-.blog-title {
+.site-title {
   margin-bottom: 0;
   font-size: 2rem;
   font-weight: 400;
 }
-.blog-description {
+.site-description {
   font-size: 1.1rem;
   color: #999;
 }
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 /*
  * Footer
  */
-.blog-footer {
+.site-footer {
   padding: 2.5rem 0;
   color: #999;
   text-align: center;
@@ -58,6 +58,6 @@ h1, h2, h3, h4, h5, h6 {
   border-top: .05rem solid #e5e5e5;
 }
 
-.blog-footer p:last-child {
+.site-footer p:last-child {
   margin-bottom: 0;
 }
